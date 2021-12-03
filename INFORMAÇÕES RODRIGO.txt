@@ -4,5 +4,5 @@ Idade:22 anos
 Data Nascimento:24/02/1999
 Comida Favorita: Pizza
 
-Cor Favorita:
-Nome da Mãe:
+Cor Favorita: Azul
+Nome da Mãe: Rose
